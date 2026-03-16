@@ -26,11 +26,11 @@ class RuchikaVerma:
     name       = "Ruchika Verma"
     location   = "India 🇮🇳"
     email      = "2809ruchika@gmail.com"
-    focus      = ["Artificial Intelligence", "Machine Learning", "Full Stack Dev"]
-    languages  = ["Python", "Java", "JavaScript", "C"]
+    focus      = ["Artificial Intelligence", "Machine Learning", "Developer"]
+    languages  = ["Python", "Java", "JavaScript", "C","HTML","CSS"]
     currently  = ["Django + DRF", "LLM Integration", "Ollama", "Data Science"]
-    learning   = ["Flask", "React Native", "Transformers", "Cloud (AWS)"]
-    ask_me     = "AI/ML, Python, Django, Web Dev"
+    learning   = ["Flask", "React Native", "Transformers","Canva and AI-Tools","HuggingFace", "Cloud (AWS)","LangChain","AgentiAi"]
+    ask_me     = "AI/ML, Python, Flask, Django, Web Dev"
     fun_fact   = "I build AI systems that actually learn — just like me 🚀"
 ```
 
@@ -114,15 +114,7 @@ class RuchikaVerma:
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ruchikaaverma&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-</div>
-
----
+--_
 
 ## 📈 Contribution Activity
 
