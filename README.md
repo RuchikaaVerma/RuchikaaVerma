@@ -26,10 +26,11 @@ class RuchikaVerma:
     name       = "Ruchika Verma"
     location   = "India 🇮🇳"
     email      = "2809ruchika@gmail.com"
-    focus      = ["Artificial Intelligence", "Machine Learning", "Developer"]
-    languages  = ["Python", "Java", "JavaScript", "C","HTML","CSS"]
+    focus      = ["Artificial Intelligence", "Machine Learning", "Full Stack Developer"]
+    languages  = ["Python", "Java", "JavaScript", "C", "HTML", "CSS"]
     currently  = ["Django + DRF", "LLM Integration", "Ollama", "Data Science"]
-    learning   = ["Flask", "React Native", "Transformers","Canva and AI-Tools","HuggingFace", "Cloud (AWS)","LangChain","AgentiAi"]
+    learning   = ["Flask", "React Native", "Transformers", "HuggingFace",
+                  "Cloud (AWS)", "LangChain", "Agentic AI", "Canva & AI-Tools"]
     ask_me     = "AI/ML, Python, Flask, Django, Web Dev"
     fun_fact   = "I build AI systems that actually learn — just like me 🚀"
 ```
@@ -42,11 +43,18 @@ class RuchikaVerma:
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🚗 **[AutoNexus](https://github.com/RuchikaaVerma/AutoNexus)** | Autonomous AI-powered system for next-gen vehicle intelligence & automation | Python · AI · ML |
 | 🎓 **[PersonalizedU](https://github.com/RuchikaaVerma/PersonalizedU)** | AI-powered adaptive learning platform with Ollama LLM, Django REST API, JWT auth & personalized course recommendations | Django · Ollama · TinyLlama · JS · SQLite |
 | 🗳️ **[SentinelVote-AI](https://github.com/RuchikaaVerma/SentinelVote-AI)** | AI-driven voting integrity system with anomaly detection | Python · ML · AI |
+| 🔐 **[SecureSense-AI](https://github.com/RuchikaaVerma/SecureSense-AI)** | Intelligent security & threat detection system powered by AI | Python · AI · Security |
 | 🔧 **[Autonomous Predictive Maintenance](https://github.com/RuchikaaVerma/Autonomous-predictive-maintenance)** | ML model for industrial equipment failure prediction | Python · Scikit-learn · Pandas |
 | 🏥 **[SmartSehat](https://github.com/RuchikaaVerma/SmartSehat)** | Smart health monitoring application | Python · ML · Web |
+| 🎮 **[PromptWar](https://github.com/RuchikaaVerma/PromptWar)** | Competitive AI prompt engineering battle platform | Python · LLM · AI |
+| 🫀 **[EpiTrack](https://github.com/Divyanshi0016/EpiTrack)** | Epilepsy tracking & monitoring health application | Python · ML · Healthcare |
 | 👁️ **[Open-CV Projects](https://github.com/RuchikaaVerma/Open-CV)** | Computer vision applications using OpenCV | Python · OpenCV · CV2 |
+| 🐍 **[Py-Projects](https://github.com/RuchikaaVerma/Py-Projects)** | Collection of Python projects covering diverse domains | Python |
+| 📚 **[Py-Libraries](https://github.com/RuchikaaVerma/Py-Libraries)** | Hands-on practice & notes for core Python libraries | Python · NumPy · Pandas |
+| 🌐 **[Portfolio](https://github.com/RuchikaaVerma/portfolio)** | Personal developer portfolio website | HTML · CSS · JS |
 | 🌐 **[Flask Projects](https://github.com/RuchikaaVerma/Flask)** | Web applications built with Flask | Python · Flask · HTML/CSS |
 
 </div>
@@ -94,6 +102,8 @@ class RuchikaVerma:
 ### Currently Exploring
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20Integration-a78bfa?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
@@ -114,7 +124,7 @@ class RuchikaVerma:
 
 </div>
 
---_
+---
 
 ## 📈 Contribution Activity
 
@@ -139,8 +149,6 @@ class RuchikaVerma:
 ---
 
 <div align="center">
-
-
 
 <br/>
 
